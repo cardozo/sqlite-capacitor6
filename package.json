@@ -13,7 +13,7 @@
     "src/",
     "ios/Plugin/",
     "electron/",
-    "CapacitorCommunitySqlite.podspec"
+    "SqliteCapacitor6.podspec"
   ],
   "author": "Jean Pierre Quéau",
   "co-author": "Cardozo",
